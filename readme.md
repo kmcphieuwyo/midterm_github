@@ -13,4 +13,4 @@ The anticipated result was that there would be very little correlation. Wyoming 
 Whether privately owned or public, Wyoming's lands are well maintained and don't get a lot of traffic, so the air quality state wide is consistently good. In hindsight, it would have been more interesting to view airquality in areas that had recent wildfires this last season. 
 
 View the Wyoming State Parks and Air Quality map here: 
-<>
+<https://kmcphieuwyo.github.io/midterm_github/mapdata/>
